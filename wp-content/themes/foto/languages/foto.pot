@@ -1,0 +1,1598 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: foto\n"
+"POT-Creation-Date: 2016-11-01 15:53+0700\n"
+"PO-Revision-Date: 2016-11-01 15:52+0700\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Team: themesawesome <themesawesome@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: foto\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: foto\n"
+"X-Poedit-SearchPathExcluded-0: foto/js\n"
+
+#: foto-child/class-tgm-plugin-activation.php:334
+#: foto/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:335
+#: foto/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:337
+#: foto/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:339
+#: foto/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:340
+#: foto/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:392
+#: foto/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:393
+#: foto-child/class-tgm-plugin-activation.php:920
+#: foto-child/class-tgm-plugin-activation.php:2626
+#: foto-child/class-tgm-plugin-activation.php:3673
+#: foto/class-tgm-plugin-activation.php:393
+#: foto/class-tgm-plugin-activation.php:920
+#: foto/class-tgm-plugin-activation.php:2626
+#: foto/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:394
+#: foto-child/class-tgm-plugin-activation.php:3252
+#: foto/class-tgm-plugin-activation.php:394
+#: foto/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:395
+#: foto/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:397
+#: foto/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:399
+#: foto/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:401
+#: foto/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:402
+#: foto/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:403
+#: foto/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:404
+#: foto/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:608
+#: foto/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:725
+#: foto/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:1027
+#: foto/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:1027
+#: foto-child/class-tgm-plugin-activation.php:1030
+#: foto/class-tgm-plugin-activation.php:1027
+#: foto/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:1030
+#: foto/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2075
+#: foto/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2366
+#: foto/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2369
+#: foto/class-tgm-plugin-activation.php:2369
+#: foto/inc/widget/foto-about-widget.php:24
+msgid "Recommended"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2385
+#: foto/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2388
+#: foto/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2391
+#: foto/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2408
+#: foto/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2412
+#: foto/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2414
+#: foto/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2420
+#: foto/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2423
+#: foto/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2426
+#: foto/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2583
+#: foto/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2591
+#: foto/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2603
+#: foto/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2626
+#: foto/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2640
+#: foto/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2641
+#: foto/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2642
+#: foto/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2646
+#: foto/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2647
+#: foto/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2696
+#: foto/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2701
+#: foto/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2707
+#: foto/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2777
+#: foto/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2810
+#: foto/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2816
+#: foto/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2819
+#: foto/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2850
+#: foto/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2852
+#: foto/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2893
+#: foto/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:2895
+#: foto/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3001
+#: foto/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3027
+#: foto/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3251
+#: foto/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3591
+#: foto/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3594
+#: foto/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3596
+#: foto/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3600
+#: foto/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3602
+#: foto/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3602
+#: foto-child/class-tgm-plugin-activation.php:3610
+#: foto/class-tgm-plugin-activation.php:3602
+#: foto/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3602
+#: foto-child/class-tgm-plugin-activation.php:3610
+#: foto/class-tgm-plugin-activation.php:3602
+#: foto/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3603
+#: foto/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3605
+#: foto/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3608
+#: foto/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3610
+#: foto/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3611
+#: foto/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: foto-child/class-tgm-plugin-activation.php:3613
+#: foto/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: foto-child/class-tgm.php:64 foto/class-tgm.php:64
+msgid "Contact Form 7"
+msgstr ""
+
+#: foto-child/class-tgm.php:75 foto/class-tgm.php:75
+msgid "ACF Pro"
+msgstr ""
+
+#: foto-child/class-tgm.php:86 foto/class-tgm.php:86
+msgid "foto Extra"
+msgstr ""
+
+#: foto-child/class-tgm.php:97 foto/class-tgm.php:97
+msgid "Redux Framework"
+msgstr ""
+
+#: foto/404.php:11 foto/inc/format/content-no-result.php:9
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: foto/404.php:15 foto/inc/format/content-no-result.php:13
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: foto/archive.php:20 foto/archive.php:85
+msgid "Archives"
+msgstr ""
+
+#: foto/comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: foto/functions.php:275
+msgid "Header Menu"
+msgstr ""
+
+#: foto/functions.php:276
+msgid "Menu Right (if Header Two)"
+msgstr ""
+
+#: foto/functions.php:382
+msgid "Primary Sidebar"
+msgstr ""
+
+#: foto/inc/format/content.php:20
+msgid "Comments "
+msgstr ""
+
+#: foto/inc/format/content.php:32
+msgid "Tags: "
+msgstr ""
+
+#: foto/inc/format/loop.php:21
+msgid "Comments"
+msgstr ""
+
+#: foto/inc/format/loop.php:32
+msgid "Read Article"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:32
+msgid "Header Section"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:33
+#: foto/inc/function/akmanda-customizer.php:323
+msgid "Edit your header color here."
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:41
+msgid "Header Default & Header Center"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:128
+#: foto/inc/function/akmanda-customizer.php:243
+#: foto/inc/function/akmanda-customizer.php:250
+#: foto/inc/function/akmanda-customizer.php:292
+msgid "Menu List Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:135
+msgid "Submenu List Color (All Header)"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:142
+msgid "Submenu List Hover Color (All Header)"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:149
+msgid "Submenu List Background Color (All Header)"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:156
+msgid "Submenu List Background Hover Color (All Header)"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:163
+msgid "Menu Slide Button Color (All Header)"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:170
+msgid "Menu Close Icon Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:177
+msgid "Mobile Menu List Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:184
+msgid "Mobile Menu List Border Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:191
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:202
+msgid "Header Left Sidebar"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:236
+msgid "Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:261
+msgid "Header Two"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:299
+msgid "Sticky Menu List Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:306
+msgid "Sticky Menu Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:322
+msgid "Concept / Album Section"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:332
+msgid "Demo-1 Creative Grid"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:401
+msgid "Toggle Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:408
+msgid "Toggle Arrow Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:415
+#: foto/inc/function/akmanda-customizer.php:561
+#: foto/inc/function/akmanda-customizer.php:641
+#: foto/inc/function/akmanda-customizer.php:699
+#: foto/inc/function/akmanda-customizer.php:766
+#: foto/inc/function/akmanda-customizer.php:830
+#: foto/inc/function/akmanda-customizer.php:881
+#: foto/inc/function/akmanda-customizer.php:939
+#: foto/inc/function/akmanda-customizer.php:1027
+#: foto/inc/function/akmanda-customizer.php:1105
+#: foto/inc/function/akmanda-customizer.php:1218
+#: foto/inc/function/akmanda-customizer.php:1340
+msgid "Album Title Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:422
+msgid "Title Border Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:429
+#: foto/inc/function/akmanda-customizer.php:575
+#: foto/inc/function/akmanda-customizer.php:1645
+msgid "Author Name Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:436
+msgid "Detail Photo Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:443
+msgid "Detail Photo icon Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:450
+msgid "Title Image Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:461
+msgid "Demo-2 Fullwidth Slider"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:533
+#: foto/inc/function/akmanda-customizer.php:780
+#: foto/inc/function/akmanda-customizer.php:1232
+msgid "Border Button Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:540
+msgid "Border & Background Button Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:547
+#: foto/inc/function/akmanda-customizer.php:787
+#: foto/inc/function/akmanda-customizer.php:1062
+#: foto/inc/function/akmanda-customizer.php:1246
+msgid "Text Button Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:554
+#: foto/inc/function/akmanda-customizer.php:801
+#: foto/inc/function/akmanda-customizer.php:1069
+#: foto/inc/function/akmanda-customizer.php:1253
+msgid "Text Button Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:568
+msgid "Description Album Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:582
+#: foto/inc/function/akmanda-customizer.php:1260
+msgid "Arrow Button Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:593
+msgid "Demo-3 Polaroid Photostack"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:634
+#: foto/inc/function/akmanda-customizer.php:692
+msgid "Photostack Figure Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:648
+msgid "Paginations Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:655
+msgid "Flip Icon Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:666
+msgid "Demo-4 Polaroid Elastic Photostack"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:710
+msgid "Demo-5 SVG Grid Concept"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:773
+#: foto/inc/function/akmanda-customizer.php:1034
+msgid "Album Description Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:794
+msgid "Background Button Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:812
+msgid "Demo-6&7 Grid Concept & Masonry"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:841
+msgid "Demo-8 Grid Grid Swap Effect"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:888
+msgid "Album Title Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:895
+msgid "Album Title Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:902
+msgid "Album Title Background Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:913
+msgid "Demo-9 Carousel Album"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:946
+msgid "Arrow Button (for all of the concepts used) Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:957
+msgid "Demo-10 Multi Scroll"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1041
+msgid "Title Border Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1048
+msgid "Border Button Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1055
+msgid "Border & Background Button Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1076
+msgid "Pagination Active Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1087
+msgid "Demo-11 Grid Image Flip"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1116
+msgid "Demo 12-18"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1225
+#: foto/inc/function/akmanda-customizer.php:1347
+msgid "Album Subtitle Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1239
+msgid "Background & Border Button Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1267
+msgid "Icon Arrow Button Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1274
+msgid "Icon Arrow Button Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1281
+msgid "Arrow Button Background Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1288
+msgid "Figure on Demo-13 Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1295
+msgid "Image Caption on Demo-13 Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1306
+msgid "Demo-19 Polaroid Grid"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1354
+msgid "Album Polaroid Background"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1372
+msgid "Gallery Section"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1373
+msgid "Edit your gallery color here."
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1382
+msgid "Gallery Creative Grid"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1424
+#: foto/inc/function/akmanda-customizer.php:1474
+#: foto/inc/function/akmanda-customizer.php:1526
+msgid "Image Title Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1431
+msgid "Image Caption Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1438
+msgid "Detail Camera Icon Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1445
+msgid "Detail Camera text Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1456
+msgid "Gallery Standard Grid & Masonry"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1485
+msgid "Gallery Slider Info Gallery"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1533
+msgid "Image Description Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1540
+msgid "Image Author Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1547
+msgid "Camera Type Text Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1563
+msgid "Pages Section"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1564
+msgid "Edit your page color here."
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1572
+msgid "About Me"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1638
+msgid "About Title (h5) Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1652
+msgid "Author Description Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1659
+msgid "Block Partner Title Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1666
+msgid "Block Partner Description Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1673
+msgid "Testimonial Text Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1680
+msgid "Testimonial Author Name Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1691
+msgid "About Us"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1749
+msgid "About Title (H2) Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1756
+msgid "About & Team Description Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1763
+msgid "Team Name Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1770
+msgid "Team Position/job Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1777
+msgid "Team Social Media Icon Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1784
+msgid "Border Decorations Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1795 foto/index.php:88
+msgid "Blog"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1975
+msgid "Border Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1982
+msgid "Border Bottom Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1989
+msgid "BLog Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:1996
+msgid "Category Border Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2003
+msgid "Category Border Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2010
+msgid "Category Text Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2017
+msgid "Category Text Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2024
+msgid "Blog Title Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2031
+msgid "Post Meta Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2038
+msgid "Border Title Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2045
+msgid "Post Description Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2052
+msgid "Read Article Button Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2059
+msgid "Social Share Button Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2066
+msgid "Block Quote Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2073
+msgid "Tags Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2080
+msgid "Sidebar Title Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2087
+msgid "Sidebar Title Border Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2094
+msgid "Sidebar Content Border Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2101
+msgid "Post Comment Button Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2108
+msgid "Post Comment Button Border hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2115
+msgid "Post Comment Text Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2122
+msgid "Post Comment Text Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2133
+msgid "Contact Map Full Width"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2212
+msgid "Page Title Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2219
+msgid "Contact Info Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2226
+#: foto/inc/function/akmanda-customizer.php:2350
+msgid "Contact Description Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2233
+#: foto/inc/function/akmanda-customizer.php:2357
+msgid "Contact Form Text Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2240
+msgid "Contact Form Button Send Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2247
+msgid "Contact Form Button Send Background Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2254
+msgid "Contact Form Button Send Text Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2261
+msgid "Contact Form Button Send Text Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2268
+msgid "Contact Form Color (All Layout)"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2279
+msgid "Contact Half Column Map & Info"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2329
+msgid "Contact Info Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2336
+msgid "Contact Info Title Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2343
+msgid "Contact Info Detail Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2368
+msgid "Page Content"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2386
+msgid "Subtitle Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2403
+msgid "Footer Section"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2404
+msgid "Edit your footer color here."
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2413
+msgid "Footer Default & Footer Copyright Center"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2447
+msgid "Copyright Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2454
+msgid "Icon Social Media Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2461
+msgid "Icon Social Media Icon Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2472
+msgid "Footer With Description"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2552
+msgid "Footer Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2559
+msgid "Footer Description Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2566
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2573
+msgid "Footer Social Media Background Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2580
+msgid "Footer Social Media Icon Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2587
+msgid "Button Border Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2594
+msgid "Button Border & Background Hover Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2601
+msgid "Button Text Color"
+msgstr ""
+
+#: foto/inc/function/akmanda-customizer.php:2608
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: foto/inc/function/comment.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: foto/inc/function/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: foto/inc/function/comment.php:34
+msgid "Edit"
+msgstr ""
+
+#: foto/inc/function/navigation.php:46
+msgid "OLDER POST"
+msgstr ""
+
+#: foto/inc/function/navigation.php:50
+msgid "NEWER POST"
+msgstr ""
+
+#: foto/inc/function/thefooter.php:9 foto/inc/function/thefooter.php:23
+#: foto/inc/function/thefooter.php:46 foto/inc/function/thefooter.php:79
+msgid "Footer 1"
+msgstr ""
+
+#: foto/inc/function/thefooter.php:33 foto/inc/function/thefooter.php:56
+#: foto/inc/function/thefooter.php:89
+msgid "Footer 2"
+msgstr ""
+
+#: foto/inc/function/thefooter.php:66 foto/inc/function/thefooter.php:99
+msgid "Footer 3"
+msgstr ""
+
+#: foto/inc/function/thefooter.php:109
+msgid "Footer 4"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:58
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:73
+msgid "Header Options"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:81
+msgid "Logo Upload"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:82
+msgid "Upload your logo image here."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:97
+msgid "Header Type"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:98
+msgid "Select Your Header Type"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:111
+msgid "Allow Header Fixed"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:112
+msgid "This option allow you to turn on or off your sticky header."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:113
+msgid "Check the box for sticky header."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:129
+msgid "Header Side Size"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:130
+msgid "Define Size Width for Header Side."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:131
+msgid "You can add a number and px or % append. eg: 30% or 30px."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:138
+msgid "Wrapper Size (by padding)."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:139
+msgid "Define Padding Left for Wrapper."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:140
+msgid ""
+"You can add a number and px or % append if you use Header Side Size. eg: 30% "
+"or 30px."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:156
+msgid "Header Two Menus Width."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:157
+msgid "Define width for header with two menus (px)"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:172
+msgid "Page Options"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:179
+msgid "Body Background"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:180
+msgid "Upload your own background image or change color."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:188
+msgid "Loader Image"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:189
+msgid "Upload your own loader image."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:196
+msgid "Content Wrap Type"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:197
+msgid "Select Your Content Wrap Layout Type"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:208
+msgid "Single Post and Blog Layout Type"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:209
+msgid "Select Your Single Post and Blog Layout Type"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:220
+msgid "Blog Title"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:221
+msgid "Blog Title Text"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:228
+msgid "Blog Subtitle"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:229
+msgid "HTML Allowed"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:240
+msgid "Footer Options"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:246
+msgid "Allow Page Comment"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:247
+msgid "This option allow you to turn on or off your page comment."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:248
+msgid "Check the box for display comment."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:255
+msgid "Allow Footer To Your Site."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:266
+msgid "Footer Type"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:267
+msgid "Select your footer type for your site."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:279
+msgid "Allow Footer For Header Side"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:280
+msgid ""
+"This option add a footer copyright and social profile to bottom if header "
+"side."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:281
+msgid "Check the box for display the footer side version."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:290
+msgid "Footer Background"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:291
+msgid "for Footer with Description Layout."
+msgstr ""
+
+#: foto/inc/option/panel/config.php:297
+msgid "Footer Description"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:298
+msgid "Add Your Text Here (for footer description layout, HTML allowed)"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:304
+msgid "Footer Button"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:305
+msgid "Footer Button Text"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:312
+msgid "Footer Link"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:313
+msgid "Footer Button Link"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:321
+msgid "Footer Text"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:322
+msgid "Add Your Copyright Here"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:331
+msgid "Typography Options"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:339
+msgid "Body Options"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:353
+msgid "Set website body font (leave form empty if you want to use default)"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:366
+msgid "Heading Typography"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:380
+msgid "Set website heading font (leave form empty if you want to use default)"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:394
+msgid "Menu Typography"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:408
+msgid "Set website menu font (leave form empty if you want to use default)"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:424
+msgid "Social Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:430
+msgid "Facebook Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:438
+msgid "twitter Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:447
+msgid "Google+ Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:456
+msgid "linkedin Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:465
+msgid "Pinterest Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:473
+msgid "Dribble Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:481
+msgid "Flickr Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:489
+msgid "Behance Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:497
+msgid "Youtube Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:505
+msgid "Soundcloud Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:513
+msgid "Codepen Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:521
+msgid "Deviantart Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:529
+msgid "Digg Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:537
+msgid "Dropbox Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:545
+msgid "Github Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:553
+msgid "Instagram Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:561
+msgid "Skype Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:569
+msgid "Spotify Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:577
+msgid "Steam Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:585
+msgid "Trello Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:593
+msgid "Tumblr Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:601
+msgid "Vimeo Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:609
+msgid "Wechat Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:617
+msgid "Weibo Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:625
+msgid "WordPress Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:633
+msgid "Xing Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:641
+msgid "Yahoo Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:649
+msgid "Yelp Profile"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:671
+msgid "Theme Information 1"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:672
+msgid "<p>Please go to themesawesome.com to get support</p>"
+msgstr ""
+
+#: foto/inc/option/panel/config.php:688 foto/inc/option/panel/config.php:689
+msgid "Options"
+msgstr ""
+
+#: foto/inc/part/gallery-fullslider.php:34
+msgid "View Image"
+msgstr ""
+
+#: foto/inc/part/gallery-fullslider.php:54 foto/template/concept-2.php:53
+msgid "Previous"
+msgstr ""
+
+#: foto/inc/part/gallery-fullslider.php:55 foto/template/concept-2.php:54
+msgid "Next"
+msgstr ""
+
+#: foto/inc/part/gallery-mansonry.php:51
+msgid "Close"
+msgstr ""
+
+#: foto/inc/part/gallery-svggrid.php:35 foto/template/concept-5.php:38
+msgid "VIEW"
+msgstr ""
+
+#: foto/inc/widget/foto-about-widget.php:19
+msgid "Title:"
+msgstr ""
+
+#: foto/inc/widget/foto-about-widget.php:24
+msgid "Author image"
+msgstr ""
+
+#: foto/inc/widget/foto-about-widget.php:24
+msgid "1:1 ( 120x120 )"
+msgstr ""
+
+#: foto/inc/widget/foto-about-widget.php:33
+msgid "Bio:"
+msgstr ""
+
+#: foto/inc/widget/foto-about-widget.php:38
+msgid "Author Name"
+msgstr ""
+
+#: foto/inc/widget/foto-latestpost-widget.php:43
+msgid "latestwid-img"
+msgstr ""
+
+#: foto/inc/widget/foto-latestpost-widget.php:95
+msgid "Title"
+msgstr ""
+
+#: foto/inc/widget/foto-latestpost-widget.php:99
+msgid "Amount of Posts"
+msgstr ""
+
+#: foto/search.php:27 foto/search.php:79
+msgid "Search Result"
+msgstr ""
+
+#: foto/searchform.php:2
+msgid "Search here..."
+msgstr ""
+
+#: foto/searchform.php:3
+msgid "Submit"
+msgstr ""
+
+#: foto/template/blog-template.php:69
+msgid "Older Entries"
+msgstr ""
+
+#: foto/template/blog-template.php:72
+msgid "Newer Entries"
+msgstr ""
+
+#: foto/template/concept-10.php:45 foto/template/concept-10.php:90
+#: foto/template/concept-12.php:66 foto/template/concept-13.php:66
+#: foto/template/concept-14.php:62 foto/template/concept-15.php:63
+#: foto/template/concept-16.php:62 foto/template/concept-17.php:64
+#: foto/template/concept-18.php:65 foto/template/concept-2.php:36
+msgid "View Album"
+msgstr ""
+
+#: foto/template/concept-12.php:15 foto/template/concept-13.php:15
+#: foto/template/concept-14.php:15 foto/template/concept-15.php:15
+#: foto/template/concept-16.php:15 foto/template/concept-17.php:15
+#: foto/template/concept-18.php:15
+msgid "prev"
+msgstr ""
+
+#: foto/template/concept-12.php:19 foto/template/concept-13.php:19
+#: foto/template/concept-14.php:19 foto/template/concept-15.php:19
+#: foto/template/concept-16.php:19 foto/template/concept-17.php:19
+#: foto/template/concept-18.php:19
+msgid "next"
+msgstr ""
+
+#: foto/template/concept-19.php:37 foto/template/concept-6.php:35
+#: foto/template/concept-7.php:34
+msgid "Gallery"
+msgstr ""
+
+#: foto/template/contact-template.php:159
+msgid "Please Activate ACF plugin to use this Page Template"
+msgstr ""

@@ -1,0 +1,694 @@
+/* #Media Queries
+================================================== */
+
+@media only screen and (max-width: 1440px) {
+
+		/*Gallery - gallery list*/
+		.lists-gallery .list-gallery img {
+			width: 90%;
+		}
+		.lists-gallery .list-gallery .expander-image {
+			right: 6%;
+		}
+
+	}
+
+	@media only screen and (max-width: 1366px) {
+		
+		/* Concept 1 - Stack Slider */
+		.stack-1 .stack-slider {
+			top: -60vh;
+		}
+
+		/*Gallery - full slider info*/
+		.gallery-info .gallery-slider-content .content-text {
+			bottom: 5%;
+		}
+		.gallery-info-slide .gallery-slider-info .flex-direction-nav .flex-next {
+			left: 11% !important;
+		}
+
+		/*Gallery - gallery list*/
+		.lists-gallery .list-gallery img {
+			width: 85%;
+		}
+		.lists-gallery .list-gallery .expander-image {
+			right: 10%;
+		}
+		.list-gallery .gallery-content, .list-gallery .gallery-details {
+			width: 100%;
+			margin: 0 20px;
+		}
+
+		/*blog*/
+		.side-active-wrap .container {
+			width: auto;
+		}
+
+	}
+
+	@media only screen and (min-width: 1200px) {
+
+		/* Base */
+		.container {
+		    width: 1170px;
+		}
+
+	}
+
+	@media only screen and (max-width: 1200px) {
+
+
+
+	}
+
+	@media only screen and (max-width: 1024px) {
+
+		/* Base */
+		.container {
+			margin-right: 15px !important;
+			margin-left: 15px !important;
+		}
+
+		/* Concept 9 - Carousel Album */
+		.concept-9.owl-carousel-layout .owl-prev i,
+		.concept-9.owl-carousel-layout .owl-next i {
+			font-size: 40px;
+		}
+
+		/* About Us Page */
+		.team-detail h3 {
+			font-size: 18px;
+		}
+
+		/*Gallery - full slider info*/
+		.gallery-info .gallery-slider-info .flex-direction-nav .flex-next {
+			left: 12% !important;
+		}
+
+		/* Header Two */
+		#main-wrapper #header.two-menus .width-container {
+			width: 960px;
+		}
+
+	}
+
+	@media only screen and (max-width: 992px) {
+		
+
+
+	}
+
+	@media only screen and (max-width: 768px) {
+
+		/* Base */
+		#main-wrapper {
+			padding-left: 0 !important;
+		}
+
+		#content .page-title .title-wrap {
+		    padding: 0 5%;
+		}
+
+		/* Header - Menu */
+		/*#main-nav ul.sm-clean {
+			display: none;
+		}*/
+		/*.site-header .mobile-menu.hide {
+			display: block;
+		}*/
+		header ul.menus-mobile li a {
+			font-size: 16px;
+		}
+		#main-nav ul.sm-clean.menu-active {
+			display: block;
+		}
+		#header.two-menus .header-social {
+			display: none;
+		}
+
+		.menu .sm-clean a span.sub-arrow {
+			margin-top: -17px;
+		}
+
+		/* Header - Left Side */
+		.ip-header {
+			margin-left: 0 !important;
+		}
+
+		/* Concept 2 - Fullwidth Slider */
+		#main-wrapper .slit-demo-1 .view-album,
+		#main-wrapper .slit-demo-1 .sl-slide h2 {
+			margin: 0;
+		}
+		#main-wrapper .slit-demo-1 .sl-slide blockquote {
+			margin: 0 0 -80px 0;
+		}
+
+		/* Concept 4 - Polaroid Elastic Stack */
+		.concept-4 .elastic-wrap {
+			overflow: hidden;
+		}
+		.concept-4 .elasticstack {
+			width: 405px;
+    		height: 475px;
+		}
+		.concept-4 .elasticstack li {
+			width: 405px;
+    		height: 435px;
+		}
+
+		/* Concept 5 - SVG Grid Concept */
+		.concept-5 .grid-svg a {
+		    width: 50%;
+		}
+		.concept-5 .grid-svg a:nth-child(even) {
+		    margin: 0;
+		}
+		.concept-5 .grid-svg {
+		    max-width: 100%;
+		}
+
+		/* With Space */
+		#main-wrapper .with-space .gallery-section {
+			margin-right: 0;
+		}
+		.with-space .gallery-section .col-2,
+		.with-space .gallery-section .col-3,
+		.with-space .gallery-section .col-4,
+		.with-space .gallery-section .col-5 {
+		    width: 100%;
+		    margin: 0 0 1% 0;
+		}
+
+		/* Concept 8 - Grid With Title */
+		.concept-8 .grid-concept8 li {
+			width: 100%;
+		}
+
+		/* Concept 10 - Multi Scroll */
+		html.mobile {
+			overflow: scroll;
+		}
+		.page-template-concept-10 .site-header {
+			position: fixed;
+			width: 100%;
+		}
+		.concept-10 {
+			position: absolute;
+			top: 0;
+		}
+		.concept-10 .ms-section {
+			display: table;
+			position: relative;
+			background-size: cover;
+    		background-position: center center;
+    	    width: 100%;
+		}
+		.concept-10 .ms-section .gallery-caption {
+			color: #fff;
+			text-align: center;
+			display: table-cell;
+    		vertical-align: middle;
+    		position: relative;
+    		z-index: 1;
+    		padding-left: 10%;
+    		padding-right: 10%;
+		}
+		.concept-10 .ms-section .gallery-caption p {
+			color: #fff;
+		}
+		.concept-10 .ms-section .overlay {
+			position: absolute;
+		    left: 0;
+		    top: 0;
+		    width: 100%;
+		    height: 100%;
+		    background-color: rgba(0, 0, 0, 0.2);
+		}
+
+		/* Blog - With SIdebar*/
+		.blog .with-sidebar {
+			width: 100%;
+			float: none;
+		}
+
+		/* Sidebar */
+		.blog #primary-sidebar {
+			width: 100%;
+			float: none;
+			padding-left: 0;
+			margin-top: 30px;
+			padding-top: 30px;
+			border-top: 1px solid #eaeaea;
+		}
+
+		/* Single Post */
+		.single-wrapper .blog-single .single-post-wrap .with-sidebar {
+			width: 100%;
+		    float: none;
+		    padding-right: 0;
+		}
+		.blog-single #primary-sidebar {
+			width: 100%;
+		    padding-left: 0;
+		    float: none;
+		    margin-top: 60px;
+		}
+		.comment-section .comments-area ol.comment-list li article.comment .avatar img {
+			min-width: 50px;
+		}
+		.comment-section .comments-area ol.comment-list li article.comment .avatar {
+			margin-right: 10px;
+    		max-width: 50px;
+		}
+
+		/* Single Gallery - Polaroid Grid*/
+		.polaroid-grid .gallery-item img {
+		    width: 100%;
+		}
+
+		/* About Me Page */
+		.about .author-image, .about .client-detail {
+		    width: 100%;
+		    float: none;
+		    text-align: center;
+		}
+		.about .author-image {
+			margin-bottom: 30px;
+		}
+		.author-image img {
+			margin: 0 auto;
+		}
+		.author-section .author-detail, .client-section .the-clients {
+			width: 100%;
+			float: none;
+			padding: 0;
+			text-align: center;
+		}
+		.signature img {
+			margin: 0 auto;
+		}
+
+		/* About Us Page */
+		.about-section .about-image {
+			float: none;
+    		width: 100%;
+    		margin-bottom: 30px;
+		}
+		.about-section .about-detail {
+			position: relative;
+			width: 100%;
+		}
+		.about-detail .inner-detail {
+			position: relative;
+			transform: inherit;
+		}
+		.team-studio .team-description {
+			width: 100%;
+			float: none;
+		}
+		.team-studio .team-member {
+			width: 100%;
+			float: none;
+		}
+		.team-person {
+			width: 100%;
+		}
+
+		/* Contact Page */
+		.contact-section-top .column {
+			float: none;
+		}
+		#main-wrapper .contact-page.white .contact-desc {
+			width: 100%;
+		    position: relative;
+		    top: 0;
+		    transform: inherit;
+		}
+		#main-wrapper .contact-page.white .contact-map {
+			width: 100%;
+			float: none;
+		}
+		.contact-details .col-2 {
+			width: 100%;
+		}
+
+		/* Footer - Style 2 */
+		#footer .footer-wrap.style-2 .footer-desc {
+		    padding-right: 0;
+		    text-align: center;
+		    width: 100%;
+		    margin-bottom: 60px;
+		}
+		#footer .footer-wrap.style-2 .copyright-text {
+		    width: 100%;
+		    float: none;
+		    text-align: center;
+		}
+		#footer .footer-wrap.style-2 .social-link {
+		    float: none;
+		    text-align: center;
+		    margin-top: 20px;
+		}
+		#footer .footer-wrap.style-2 .footer-button {
+			width: 100%;
+    		float: none;
+    		overflow: hidden;
+		}
+		.footer-wrap.style-2 .button-title {
+		    position: inherit;
+		    text-align: center;
+		    top: 0;
+		    right: 0;
+		    transform: none;
+		}
+
+		/*Gallery - full slider info*/
+		.gallery-info .gallery-slider-info .flex-direction-nav .flex-next {
+			left: 14% !important;
+		}
+		.album-text {
+			display: none;
+		}
+
+		.list-gallery .gallery-content, .list-gallery .gallery-details {
+			width: 100%;
+			margin: 0;
+			padding: 0 20px;
+		}
+
+		/* Gallery Masonry */
+		.gallery-section .column {
+			width: 100%;
+		}
+
+		.site-header .mobile-menu {
+			display: block;
+		}
+		.site-header nav.menu {
+			float: none;
+		}
+		#main-nav ul.sm-clean {
+			display: none;
+		}
+		#main-nav ul.sm-clean.menu-active {
+			display: block;
+		}
+		#main-nav ul.sm-clean {
+			background-color: #ffffff;
+		}
+		#main-nav .sm-clean .custom-button {
+			float: none;
+		}
+		#main-nav ul.sm-clean li a {
+			border-radius: 0;
+		}
+
+		/* Header - Header Center */
+		.sticky-header #main-wrapper #header.center .site-header {
+			padding: 0;
+		}
+		#main-wrapper #header.center .site-header {
+			padding: 15px 0 0;
+		}
+		#header.center .logo {
+			display: block;
+		    padding: 20px 0 30px;
+		    width: 80%;
+		    margin: auto;
+		}
+		#header.center .container {
+			margin: 0 !important;
+			padding: 0;
+		}
+		#main-wrapper #header.center .sm-clean li {
+			display: block;
+		}
+
+		/* Header - Header Side */
+
+		body #header.left-side {
+			width: 100% !important;
+			position: relative;
+			height: auto !important;
+			float: none;
+			background-color: rgba(255, 255, 255, 0);
+		    transition: left 500ms, background-color 400ms;
+		    -webkit-transition: left 500ms, background-color 400ms;
+		}
+		body #header.left-side .logo {
+			display: inline-block;
+			padding: 10px 0;
+		}
+		body #header.left-side nav.menu > ul > li {
+			border-bottom: 0;
+		}
+		body #header.left-side nav.menu > ul > li > a {
+			color: #222222;
+		    font-size: 14px;
+			padding: 15px 0;
+		}
+		body #header.left-side .mobile-menu {
+			display: block;
+			z-index: 100;
+		}
+		body #header.left-side nav.menu > ul > li.custom-button > a {
+			color: #ffffff;
+		}
+
+		/*Header - Header Two Side Menus*/
+		#main-wrapper #header.two-menus {
+			position: relative;
+		}
+		#main-wrapper #header.two-menus .mobile-menu {
+			top: 0;
+		}
+		#main-wrapper #header.two-menus .logo {
+		    position: relative;
+		}
+		#main-wrapper #header.two-menus .site-header {
+			width: 100%;
+			max-width: 100%;
+		}
+		#main-wrapper #header.two-menus .sm-clean, #main-wrapper #header.two-menus .menu-right {
+			float: none;
+		}
+		#main-wrapper .header-holder {
+			height: 0 !important;
+		}
+		#header.two-menus nav.menu .sm-clean > li:last-child,
+		#header nav.menu .sm-clean > li:last-child {
+			margin: 0;
+		}
+		#main-wrapper header.two-menus .logo .logo-image img {
+		    margin: 0 0 0 30px;
+		}
+		#main-wrapper #header.two-menus .width-container {
+		    width: 100%;
+		}
+		.width-container .primary-left-nav, .width-container .primary-right-nav {
+		    width: 100%;
+		}
+		
+	}
+
+	@media only screen and (max-width: 640px) {
+
+		/* Concept 2 - Fullwidth Slider */
+		#main-wrapper .slit-demo-1 .view-album {
+			bottom: 55%;
+		}
+		#main-wrapper .slit-demo-1 .sl-slide blockquote p {
+			width: 65%;
+		}
+
+		/* Concept 12 - Concept 18 */
+		.slide .slide__title {
+			width: 100%;
+			text-align: center;
+		}
+		.slide .slide__title .slide__title-sub {
+			display: none;
+		}
+		.codrops .slideshow__nav--arrows {
+			width: 100%;
+		    text-align: center;
+		    left: 0;
+		    bottom: -45px;
+		}
+
+		/* Concept 13 - Polaroid Stack For 5 Images */
+		.concept-13 .slide--layout-2 .slide__img {
+		    top: 15%;
+		}
+
+		/* Blog Post */
+		#content .blog .post-item {
+			width: 100%;
+			float: none;
+		}
+
+		/*Gallery - full slider info*/
+		.gallery-info .gallery-slider-info .flex-direction-nav .flex-next {
+			left: 17% !important;
+		}
+
+		/*Gallery - full slider info*/
+		.list-gallery .gallery-content {
+			text-align: center;
+		}
+
+		/* Gallery Codrops */
+		main.codrops {
+			height: auto !important;
+		}
+
+		/* Slide Title */
+		main.codrops {
+		    overflow: visible !important;
+		}
+		.slide .slide__title {
+			margin-bottom: 0;
+		}
+		.slideshow__nav--arrows button i {
+		    line-height: 22px !important;
+		}
+
+		/* Comments */
+		.comments-area ol.comment-list li ul.children {
+		    padding-left: 10px;
+		}
+		
+	}
+
+	@media only screen and (max-width: 480px) {
+
+		/* Header - Menu */
+		header .c-menu--slide-right {
+		    width: 65%;
+		}
+
+		/* Concept 1 - Stack Slider */
+		#main-wrapper .stack-1 {
+			min-height: 65vh;
+		}
+		.stack-1 .stack-slider {
+		    top: -50vh;
+		}
+		.stack-1 .stack-slider {
+		    height: 70vh;
+		}
+
+		/* Concept 2 - Fullwidth Slider */
+		#main-wrapper .slit-demo-1 .view-album {
+			bottom: 60%;
+		}
+
+		/* Concept 3 - Polaroid Photostack */
+		.concept-3 .photostack nav span {
+		    margin: 0 0px;
+		    width: 25px;
+		    height: 25px;
+		}
+
+		/* Concept 4 - Polaroid Elastic Stack */ 
+		.concept-4 .elasticstack {
+			width: 405px;
+    		height: 475px;
+		}
+		.concept-4 .elasticstack li {
+			width: 405px;
+    		height: 435px;
+		}
+
+		/* Concept 6 - Album Grid Concept */
+		.concept-6 .column.col-3 {
+			width: 100%;
+		}
+
+		/* Blog Post */
+		.post-content .content-bottom .button {
+		    width: 100%;
+		    float: none;
+		    margin-top: 7px;
+		    text-align: center;
+		}
+		.post-content .content-bottom .share {
+		    width: 100%;
+		    float: none;
+		    text-align: center;
+		    margin-top: 15px;
+		}
+		.blog-post .post-item .inner-content {
+		    padding: 10px;
+		}
+
+		/* About Me Page */
+		.the-clients .clients.column.col-3 {
+			width: 100%;
+			padding: 0;
+		}
+
+		.the-clients .clients.column.col-3 img {
+			margin: 0 auto;
+		}
+
+		/* Footer - Style 3 */
+		#footer .style-3 .copyright .social-link {
+		    margin-bottom: 15px;
+		}
+		#footer .style-3 .social-link ul li a {
+		    font-size: 14px;
+		    width: 25px;
+		    height: 25px;
+		    line-height: 25px;
+		}
+		#footer .style-3 .copyright {
+		    font-size: 14px;
+		}
+
+		/*Gallery - full slider info*/
+		.gallery-info .gallery-slider-info .flex-direction-nav .flex-next {
+			right: 3% !important;
+			left: auto !important;
+			bottom: 50%;
+		}
+		.gallery-info .gallery-slider-info .flex-direction-nav .flex-prev {
+			bottom: 50%;
+		}
+		.gallery-info .gallery-slider-content .content-text {
+		    width: 100%;
+		    max-width: 100%;
+		    text-align: center;
+		    bottom: 1%;
+		    left: 0;
+		}
+		.gallery-info .gallery-slider-content .content-text .album-title {
+			margin-bottom: 0;
+		}
+		.gallery-info .gallery-slider-details {
+			right: 0;
+			left: 0;
+			margin: 0 20px;
+		    bottom: 12%;
+		}
+
+		/* Comments */
+		.comment-section .comments-area ol.comment-list li article.comment {
+		    padding: 10px;
+		}
+		.comment-section .comments-area ol.comment-list li article.comment .meta-comment .comment-action {
+		    top: 10px;
+		    right: 10px;
+		}
+		.comment-section .comments-area ol.comment-list li article.comment .meta-comment .comment-action a {
+		    padding: 2px 5px;
+		    font-size: 10px;
+		}
+
+		.slideshow__nav--arrows button i {
+    		line-height: 23px;
+		}
+
+	}

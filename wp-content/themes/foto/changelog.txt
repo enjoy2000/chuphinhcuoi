@@ -1,0 +1,101 @@
+== v1.4 25 January 2017 ==
+
+- UPDATE	: ACF Pro Plugin
+- UPDATE	: Foto Extra
+- ADDED		: Disable ACF update notification
+
+File Changed:
+
+- plugins/advanced-custom-fields-pro.zip
+- plugins/foto-extra.zip
+- function.php
+
+== v1.3 24 November 2016 ==
+
+- CHANGED 	: Default fonts for Typography Options
+- CHANGED 	: Primary dark color to #000000
+- CHANGED 	: Caption to description for gallery full slider info
+- REMOVED 	: Expand icon from Gallery List layout
+- REMOVED 	: Site title slide down animation when header two menu scrolled
+- ADDED 	: Header holder add more height
+- ADDED 	: Background Check for concept slider and gallery slider
+- FIXED 	: Minor bugs with styling
+- FIXED		: Header Side background when sticky header active
+- FIXED		: Header center site title glitch
+- FIXED		: Concept and Gallery masonry and grid title black to white
+- UPDATED 	: Page loading longer 0.5s
+
+File Changed:
+
+- style.css
+- inc/option/panel/config.php
+- inc/part/gallery-sliderinfo.php
+- inc/part/gallery-list.php
+- inc/panels/color-options.php
+- inc/panels/color-output.php
+- js/main.js
+- js/slitslider.js
+- js/akmanda-customizer.js
+- js/page-loader.js
+- template/concept-1.php
+- inc/option/panel/config.php
+
+== v1.2 16 November 2016 ==
+
+- ADDED		: Header option customizer for each type.
+- ADDED		: Logo height option customizer.
+- CHANGED	: Contact full map layout header color to transparent.
+- CHANGED	: Body background color and image to customizer.
+- REMOVED	: Body background option redux.
+- UPDATED	: Customizer function and file.
+- FIXED		: Concept album select display post conditional logic.
+- CHANGED	: Disable Redux option from live customizer.
+
+
+File Changed:
+
+- style.css
+- inc/function/akmanda-customizer.php
+- inc/panels
+- inc/function/meta-box.php
+- js/akmanda-customizer.js
+- inc/option/panel/config.php
+
+== v1.1 14 November 2016 ==
+
+- ADDED		: New field for concept page that allow to pick specific album to show at each page.
+- ADDED		: Single album post support password-protected post.
+- ADDED		: Keyboard navigation enable for slider type album and concept.
+- CHANGED	: Creative grid gallery post image caption with image description.
+- REMOVED	: Background check function.
+- FIXED		: Menu styling issue.
+- UPDATED	: Foto Extra plugin.
+
+File Changed:
+
+- style.css
+- inc/function/meta-box.php
+- template/concept-1.php
+- template/concept-10.php
+- template/concept-11.php
+- template/concept-12.php
+- template/concept-13.php
+- template/concept-14.php
+- template/concept-15.php
+- template/concept-16.php
+- template/concept-17.php
+- template/concept-18.php
+- template/concept-19.php
+- template/concept-2.php
+- template/concept-3.php
+- template/concept-4.php
+- template/concept-5.php
+- template/concept-6.php
+- template/concept-7.php
+- template/concept-8.php
+- template/concept-9.php
+- single-foto-gallery.php
+- js/main.js
+- js/slitslider.js
+- inc/part/gallery-sliderinfo.php
+- plugins/foto-exta.zip
