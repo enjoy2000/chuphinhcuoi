@@ -30,38 +30,40 @@ $foto_adaptive_background	= get_field('adaptive_background');
 		<a class="image-link chocolat-image" title="<?php echo sanitize_text_field( $foto_name ); ?>" href="<?php echo esc_url( $foto_image['url'] ); ?>">
 		<img src="<?php echo esc_url( $foto_image['url'] ); ?>" alt="<?php echo esc_attr( $foto_image['alt'] ); ?>" data-adaptive-background />
 		</a>
-		<div class="list-gallery-content clearfix">
-			<div class="container">
-				<div class="gallery-content">
-					<h2 class="title">
-						<?php echo sanitize_text_field( $foto_name ); ?>
-					</h2>
-					<p class="caption"><?php echo balancetags( $foto_caption ); ?></p>
+		<?php if (false): ?>
+			<div class="list-gallery-content clearfix">
+				<div class="container">
+					<div class="gallery-content">
+						<h2 class="title">
+							<?php echo sanitize_text_field( $foto_name ); ?>
+						</h2>
+						<p class="caption"><?php echo balancetags( $foto_caption ); ?></p>
+					</div>
+					<?php if(!empty($foto_image_camera) || !empty($foto_image_focal_length) || !empty($foto_image_aperture) || $foto_image_shutter_speed || !empty($foto_image_iso) ) { ?>
+					<div class="gallery-details">
+						<ul>
+							<li class="album-author"><i class="fa fa-user"></i><span><?php echo sanitize_text_field( $foto_album_author ); ?></span></li>
+							<?php if(!empty($foto_image_camera)) { ?>
+								<li><i class="icon icon-camera"></i><span><?php echo sanitize_text_field( $foto_image_camera ); ?></span></li>
+							<?php } 
+							if(!empty($foto_image_focal_length)) { ?>
+								<li><i class="icon icon-focal_length"></i><span><?php echo sanitize_text_field( $foto_image_focal_length ); ?></span></li>
+							<?php } 
+							if(!empty($foto_image_aperture)) { ?>
+								<li><i class="icon icon-aperture"></i><span><?php echo sanitize_text_field( $foto_image_aperture ); ?></span></li>
+							<?php } 
+							if(!empty($foto_image_shutter_speed)) { ?>
+								<li><i class="icon icon-exposure_time"></i><span><?php echo sanitize_text_field( $foto_image_shutter_speed ); ?></span></li>
+							<?php } 
+							if(!empty($foto_image_iso)) { ?>
+								<li><i class="icon icon-iso"></i><span><?php echo sanitize_text_field( $foto_image_iso ); ?></span></li>
+							<?php } ?>
+						</ul>
+					</div>
+					<?php } ?>
 				</div>
-				<?php if(!empty($foto_image_camera) || !empty($foto_image_focal_length) || !empty($foto_image_aperture) || $foto_image_shutter_speed || !empty($foto_image_iso) ) { ?>
-				<div class="gallery-details">
-					<ul>
-						<li class="album-author"><i class="fa fa-user"></i><span><?php echo sanitize_text_field( $foto_album_author ); ?></span></li>
-						<?php if(!empty($foto_image_camera)) { ?>
-							<li><i class="icon icon-camera"></i><span><?php echo sanitize_text_field( $foto_image_camera ); ?></span></li>
-						<?php } 
-						if(!empty($foto_image_focal_length)) { ?>
-							<li><i class="icon icon-focal_length"></i><span><?php echo sanitize_text_field( $foto_image_focal_length ); ?></span></li>
-						<?php } 
-						if(!empty($foto_image_aperture)) { ?>
-							<li><i class="icon icon-aperture"></i><span><?php echo sanitize_text_field( $foto_image_aperture ); ?></span></li>
-						<?php } 
-						if(!empty($foto_image_shutter_speed)) { ?>
-							<li><i class="icon icon-exposure_time"></i><span><?php echo sanitize_text_field( $foto_image_shutter_speed ); ?></span></li>
-						<?php } 
-						if(!empty($foto_image_iso)) { ?>
-							<li><i class="icon icon-iso"></i><span><?php echo sanitize_text_field( $foto_image_iso ); ?></span></li>
-						<?php } ?>
-					</ul>
-				</div>
-				<?php } ?>
-			</div>
-		</div><!-- list gallery content end -->
+			</div><!-- list gallery content end -->
+		<?php endif ?>
 	</li>
 
 	<?php endforeach; ?>
