@@ -67,7 +67,7 @@ $foto_content_padding_bottom	= get_field('content_padding_bottom');
 		<?php the_content(); } ?>
 		</div>
 
-		<script>window.gallery_images = '<?php echo json_encode(get_field('gallery_images')) ?>'</script>
+		<script>window.galleryImages = JSON.parse('<?php echo json_encode(get_field('gallery_images')) ?>');</script>
 
 		<?php if($gallery_type == 'defaultGallery') {
 			get_template_part( 'inc/part/gallery', 'mansonry' ); 
