@@ -74,7 +74,7 @@ $foto_adaptive_background	= get_field('adaptive_background');
 	<?php if($foto_adaptive_background == true) { ?>
 	<script type="text/javascript">
 	jQuery(function(){
-        jQuery('.list-gallery').Chocolat({
+        jQuery('.lists-gallery').Chocolat({
             imageSize: 'contain'
         });
     });
