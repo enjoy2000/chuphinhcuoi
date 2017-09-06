@@ -17,6 +17,7 @@ Template Name: Concept Fullwidth Slider
 		'post_type'          => 'foto-gallery',
 		'post_status'        => 'publish',
 		'posts_per_page'     => -1,
+		'orderby'			=> 'post__in',
         'post__in'          => $foto_album_post_list,
 
 			);

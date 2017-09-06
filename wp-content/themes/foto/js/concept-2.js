@@ -7,6 +7,7 @@
 					var $navArrows = $( '#nav-arrows' ),
 						$nav = $( '#nav-dots > span' ),
 						slitslider = $( '#slider' ).slitslider( {
+							autoplay: true,
 							onBeforeChange : function( slide, pos ) {
 
 								$nav.removeClass( 'nav-dot-current' );

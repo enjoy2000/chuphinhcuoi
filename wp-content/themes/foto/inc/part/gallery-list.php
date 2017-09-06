@@ -28,7 +28,7 @@ $foto_adaptive_background	= get_field('adaptive_background');
 
 	<li class="list-gallery<?php if($foto_adaptive_background == false) { ?> normal-background<?php } ?>">
 		<a class="image-link chocolat-image" title="<?php echo sanitize_text_field( $foto_name ); ?>" href="<?php echo esc_url( $foto_image['url'] ); ?>">
-		<img src="<?php echo esc_url( $foto_image['sizes']['large'] ); ?>" alt="<?php echo esc_attr( $foto_image['alt'] ); ?>" data-adaptive-background />
+			<img src="<?php echo esc_url( $foto_image['sizes']['large'] ); ?>" alt="<?php echo esc_attr( $foto_image['alt'] ); ?>" data-adaptive-background />
 		</a>
 		<?php if (false): ?>
 			<div class="list-gallery-content clearfix">
@@ -63,7 +63,7 @@ $foto_adaptive_background	= get_field('adaptive_background');
 					<?php } ?>
 				</div>
 			</div><!-- list gallery content end -->
-		<?php endif ?>
+		<?php endif; ?>
 	</li>
 
 	<?php endforeach; ?>
